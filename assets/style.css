@@ -15,7 +15,7 @@ body {
     background-attachment: fixed;
     background-size: cover;
     display: flex;
-    flex-direction: column;
+    flex-direction: column; 
 }
 
 /* Main area of the web page */
